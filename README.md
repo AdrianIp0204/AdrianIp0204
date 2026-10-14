@@ -7,7 +7,6 @@ Interests: physics education, AI agents, tools for thought, local-first systems,
 ## Selected projects
 
 - **[PlanBranch](https://github.com/AdrianIp0204/PlanBranch)** — Visual planning for AI-assisted coding, with editable diagrams, change review, and individual tasks run in isolated Git worktrees.
-- **[Agent Trust](https://github.com/AdrianIp0204/openclaw-agent-trust)** — Experimental tooling that checks AI-agent completion claims against recorded execution receipts and produces audit reports.
 - **[ExamLantern](https://examlantern.com/)** — An Edexcel IAL learning platform with lessons, worked examples, and practice.
 
 ## Coursework
