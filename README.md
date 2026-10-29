@@ -20,7 +20,7 @@ I'm building it to make the reasoning and decisions behind AI-assisted coding ea
 
 **Built with:** Python, Flask, React, TypeScript, and SQLite.
 
-The [XERJ Corpus Hub](https://hub.xerj.org/contributors/AdrianIp0204) lists my contribution on cumulative coding budgets and handling transient Windows record locks.
+The [XERJ Corpus Hub](https://hub.xerj.org/contributors/AdrianIp0204), an external code index, lists my [PlanBranch contribution](https://github.com/AdrianIp0204/PlanBranch/commit/293b80a537542f89210449c21031c8e5b5177760) on cumulative coding budgets and handling transient Windows record locks.
 
 ## Open source
 
