@@ -20,6 +20,8 @@ I'm building it to make the reasoning and decisions behind AI-assisted coding ea
 
 **Built with:** Python, Flask, React, TypeScript, and SQLite.
 
+The [XERJ Corpus Hub](https://hub.xerj.org/contributors/AdrianIp0204) lists my contribution on cumulative coding budgets and handling transient Windows record locks.
+
 ## Open source
 
 Contributed a [merged fix to OpenClaw](https://github.com/openclaw/openclaw/pull/112214) that keeps memory search available while its index refreshes.
